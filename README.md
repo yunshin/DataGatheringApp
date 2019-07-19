@@ -8,7 +8,7 @@ This app requires WRITE_EXTERNAL_STORAGE permission, as data is saved in the sdc
 ## How to use:  
 
 1. Make a directory(folder) 'touch_data' under the path '*internal storage*/Android/data' in a smartphone.
-2. Download and install the attached 'Gathering_pattern_data.apk'. 'Google Play Protect' might have to be disabled depending on smartphones.  
+2. Download and install the attached 'Gathering_pattern_data.apk'. 'Google Play Protect' might have to be disabled depending on the device.    
 3. Open the app GatheringPatternData and click 'Gather Touch Data'. 
 4. Draw a pattern.
 5. Data is sequentially saved under '*internal storage*/Android/data/touch_data' as csv format.
