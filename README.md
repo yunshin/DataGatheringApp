@@ -16,5 +16,5 @@ file number,touched coordinate X1, touched coordinate Y1, touch pressure 1
 ...   
 file number,touched coordinate Xn, touched coordinate Yn, touch pressure n  
 6. One complete pattern consists of one file. ex) 1.txt  
-  
-Thank you!  
+
+  Thank you!  
