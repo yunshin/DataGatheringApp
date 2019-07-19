@@ -8,12 +8,13 @@ This app has been tested on LG-G4 and Samsung Galaxy S7.
 
 1. Make a directory(folder) 'touch_data' under the path '*internal storage*/Android/data' in a smartphone.
 2. Download and install the attached 'Gathering_pattern_data.apk'. 'Google Play Protect' might have to be disabled depending on smartphones.  
-3. Open the app and . 
+3. Open the app GatheringPatternData and click 'Gather Touch Data'. 
 4. Draw a pattern.
 5. Data is sequentially saved under '*internal storage*/Android/data/touch_data' as csv format.
-Data format is :
-file number,touched coordinate X1, touched coordinate Y1, touch pressure 1
-...
-file number,touched coordinate Xn, touched coordinate Yn, touch pressure n
-
-Thank you!
+Data format is :  
+file number,touched coordinate X1, touched coordinate Y1, touch pressure 1  
+...   
+file number,touched coordinate Xn, touched coordinate Yn, touch pressure n  
+6. One complete pattern consists of one file. ex) 1.txt  
+  
+Thank you!  
