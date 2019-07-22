@@ -4,7 +4,7 @@ An Android application to gather touch data while drawing a pattern.
 
 This app has been tested on LG-G4 and Samsung Galaxy S7.
 
-This app requires WRITE_EXTERNAL_STORAGE permission, as data is saved in the sdcard inside a smartphone.  
+This app requires WRITE_EXTERNAL_STORAGE permission in Android, as data is saved in the sdcard inside a smartphone.  
 ## How to use:  
 
 1. Make a directory(folder) 'touch_data' under the path '*internal storage*/Android/data' in a smartphone.
